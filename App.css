@@ -56,38 +56,14 @@
   width: 47%;
 }
 .chat1{
-  margin-left: 458px;
+  margin-left: 7px;
   border: 1px solid gray;
   padding-left: 7px;
   border-radius: 15px;
-  width: 7%;
+  width: 12%;
   background-color: lightgray;
 }
 .chat2{
-  margin-left: 15px;
-  border: 1px solid gray;
-  padding-left: 7px;
-  border-radius: 15px;
-  width: 4%;
-  background-color: lightgray;
-}
-.chat3{
-  margin-left: 426px;
-  border: 1px solid gray;
-  padding-left: 7px;
-  border-radius: 15px;
-  width: 10%;
-  background-color: lightgray;
-}
-.chat4{
-  margin-left: 15px;
-  border: 1px solid gray;
-  padding-left: 7px;
-  border-radius: 15px;
-  width: 4%;
-  background-color: lightgray;
-}
-.chat5{
   margin-left: 425px;
   border: 1px solid gray;
   padding-left: 7px;
@@ -95,24 +71,48 @@
   width: 10%;
   background-color: lightgray;
 }
+.chat3{
+  margin-left: 7px;
+  border: 1px solid gray;
+  padding-left: 7px;
+  border-radius: 15px;
+  width: 12%;
+  background-color: lightgray;
+}
+.chat4{
+  margin-left: 388px;
+  border: 1px solid gray;
+  padding-left: 7px;
+  border-radius: 15px;
+  width: 13%;
+  background-color: lightgray;
+}
+.chat5{
+  margin-left: 7px;
+  border: 1px solid gray;
+  padding-left: 7px;
+  border-radius: 15px;
+  width: 13%;
+  background-color: lightgray;
+}
 .tag2{
   margin-right: 1px;
   margin-left: %;
-  padding-top: 240px;
+  padding-top: 180px;
   float: left;
 }
 .inputtext{
-  padding-top: 240px;
+  padding-top: 180px;
   padding-left: 8px;
   float: left;
 }
 .tag3{
   float: left;
-  padding-top: 240px;
+  padding-top: 180px;
   padding-left: 330px;
 }
 .tag4{
   float: left;
-  padding-top: 240px;
+  padding-top: 180px;
   
 }
